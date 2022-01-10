@@ -4,7 +4,7 @@
 
 <h4 align="left">I am an innovative, creative and passionate frontend developer that loves creating dynamic user experiences, responsive web pages and web applications.</h4>
 
-- 💬 I work with **React js, Javascript, Bootstrap**
+- 💬 I currently work with **React js, Javascript, Bootstrap, HTML, CSS**
 
 - 📫 How to reach me **iyimide.adegunloye@gmail.com**
 
