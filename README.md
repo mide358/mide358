@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **iyimide.adegunloye@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PjdtlTcmiMmgedgGFd5Ts-CKJ6lHJbh8/view?usp=sharing" target="_blank" alt="My CV"><i>My Resume</i></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/175YDKb6hi5lGbowxanznsoFVZpIQ0i1g/view?usp=sharing" target="_blank" alt="My CV"><i>My Resume</i></a>
 
 
 ## Connect with me  
